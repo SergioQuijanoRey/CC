@@ -83,8 +83,7 @@ Aunque en una primera aproximación Docker es, como hemos dicho arriba,
 similar a otras aplicaciones de virtualización *ligera*  como
 `lxc/lxd`, que lo precedieron en el tiempo, sin embargo el enfoque de
 Docker
-[es fundamentalmente diferente](https://www.flockport.com/lxc-vs-docker/) es
-fundamentalmente diferente, 
+[es fundamentalmente diferente](https://www.flockport.com/lxc-vs-docker/), 
 aunque las tecnologías subyacentes de virtualización por software son
 las mismas. La principal diferencia es que Docker hace
 énfasis en la gestión centralizada de recursos y, en una línea que va
